@@ -154,7 +154,7 @@ static const uint32_t round_constants[22] = {
         0x00008080,
 };
 
-static const uint32_t evrmore_progpow[15] = {
+static const uint32_t evrmore_evrprogpow[15] = {
         0x00000045, //E
         0x00000056, //V
         0x00000052, //R
